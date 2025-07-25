@@ -30,7 +30,8 @@ Este programa coleta e analisa as temperaturas máximas mensais do ano de 2021, 
 
 ## 🖼️ Apresentação Visual
 
-> ![Gráfico de exemplo](./ANALISE-DAS-TEMPERATURAS-MÁXIMAS-MENSAIS-DE-2021.png)
+> ![Gráfico de exemplo](./analise-temperaturas-2021.png
+)
 
 ---
 
